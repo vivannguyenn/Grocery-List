@@ -1,4 +1,4 @@
 Grocery list:
 1. Milk
 2. Bread
-3. Cornflakes
+3. Eggs
